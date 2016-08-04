@@ -2,4 +2,5 @@
 
 this is first git version
 
-now, variable = 3.14.15
+no! variable = 2.71.82
+and Pi sux
