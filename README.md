@@ -2,5 +2,7 @@
 
 this is first git version
 
-no! variable = 2.71.82
-and Pi sux
+now, variable = 3.14.15
+
+Pi is the very best varialbe
+stop changing this file
